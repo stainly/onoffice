@@ -1,3 +1,9 @@
+## 0.3.0 (2024-11-22)
+
+### Feat
+
+- removed unnecessary version identifier from __init__
+
 ## 0.2.0 (2024-11-22)
 
 ### Feat
