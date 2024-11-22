@@ -10,7 +10,7 @@ from onoffice.resources import Resource
 
 
 class API:
-    """ Main API Wrapper for accessing Onoffice """
+    """ Main API wrapper for accessing Onoffice """
     def __init__(self, token: str | None = None, secret: str | None = None):
         self.token = token if token else os.environ.get("ONOFFICE_TOKEN", None)
         self.secret = secret if secret else os.environ.get("ONOFFICE_SECRET", None)
