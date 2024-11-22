@@ -1,6 +1,6 @@
 [project]
 name = "onoffice"
-version = "0.0.1"
+version = "0.1.0"
 description = "This library is a python wrapper around the onoffice API. It facilitates interacting with the API in a more pythonic matter."
 readme = "README.md"
 requires-python = ">=3.10"
